@@ -30,8 +30,6 @@ h1 {
   background-color: red;
   border-radius: 5px;
   display: inline-block;
-
-
 }
 
 #book-lists .list-item {
@@ -40,11 +38,6 @@ h1 {
   float: left;
   justify-content: flex-start;
 }
-
-/* #book-lists .list-item .remove-button {
-  margin-left: auto;
-  width: auto;
-} */
 
 hr {
   width: 20%;
@@ -73,14 +66,13 @@ nav {
   justify-content: space-between;
   margin: 10px;
   align-items: center;
-  
 }
 
 .contact {
   text-align: center;
 }
 
-ul{
+ul {
   padding: 10px;
 }
 
@@ -114,9 +106,10 @@ ul li {
   color: blue;
 }
 
-.btn{
+#button {
   padding: 7px 8px;
   color: #000;
+  margin-left: 11%;
 }
 
 #footer {
@@ -127,7 +120,6 @@ ul li {
   position: sticky;
   margin-left: 13px;
   margin-right: 13px;
-  position: sticky;
 }
 
 h2 {

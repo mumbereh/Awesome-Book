@@ -20,7 +20,7 @@ class BookCollection {
   
       this.books.forEach((book) => {
         const li = document.createElement('li');
-        li.textContent = `${book.title} - ${book.author}`;
+        li.textContent = `"${book.title}" by ${book.author}`;
   
         const removeButton = document.createElement('button');
         removeButton.classList.add('remove-button');
