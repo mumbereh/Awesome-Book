@@ -35,7 +35,7 @@
 
 # 📖 [Awesome-Books] <a name="about-project"></a>
 
-**[Awesome-books-pair-project]** is a project about restructuring Awesome books app code with aim of making it more organized by using modules and applying good practice of  ES6 syntax.
+**[Awesome-books-project]** is a project about restructuring Awesome books app code with aim of making it more organized by using modules and applying good practice of  ES6 syntax.
 
 ## 🛠 Built With <a name="built-with"></a>
 
