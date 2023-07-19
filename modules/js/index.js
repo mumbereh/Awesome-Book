@@ -42,7 +42,7 @@ class BookCollection {
     };
 }
 
-function toggleSection(sectionId) {
+const toggleSection = (sectionId) => {
   const section = document.getElementById(sectionId);
   const sections = document.getElementsByTagName('section');
 
@@ -51,7 +51,7 @@ function toggleSection(sectionId) {
   }
 
   section.style.display = 'block';
-}
+};
 
 const bookCollection = new BookCollection();
 
